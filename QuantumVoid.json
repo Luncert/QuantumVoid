@@ -1,0 +1,62 @@
+{
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
+  "name": "Quantum Void",
+  "author": "Luncert",
+  "themes": [
+    {
+      "name": "Quantum Void Dark",
+      "appearance": "dark",
+      "style": {
+        "background": "#181f29",
+        "scrollbar.track.background": "#1b1730",
+        "scrollbar.thumb.background": "#d99eca",
+        "scrollbar.track.border": "#181f29",
+        "editor.gutter.background": "#1a2738",
+        "editor.invisible": null,
+        "editor.foreground": "#bf9fb7",
+        "editor.background": "#181f29",
+        "editor.line_number": "#5b697a",
+        "editor.active_line.background": "#3d4870",
+        "editor.active_line_number": "#f3f5ab",
+        "editor.active_wrap_guide": "#abad76",
+        "editor.wrap_guide": "#f3f5ab",
+        "editor.indent_guide": "#5b697a",
+        "editor.indent_guide_active": "#abad76",
+        "editor.document_highlight.bracket_background": "#2a324d",
+        "editor.document_highlight.read_background": null,
+        "editor.document_highlight.write_background": null,
+        "editor.subheader.background": null,
+        "element.active": null,
+        "element.hover": null,
+        "border": "#1b1730",
+        "border.disabled": "#e83f3f",
+        "border.focused": "#f5abf3",
+        "pane.focused_border": "#a334a0",
+        "panel.background": "#302a4d",
+        "panel.indent_guide": "#5b697a",
+        "panel.indent_guide_active": "#abad76",
+        "search.match_background": "#aaad53",
+        "status_bar.background": "#1b1730",
+        "surface.background": null,
+        "tab_bar.background": "#1b1730",
+        "tab.active_background": "#302a4d",
+        "tab.inactive_background": "#1b1730",
+        "terminal.background": "#472541",
+        "text": "#d99eca",
+        "title_bar.background": "#1b1730",
+        "toolbar.background": "#472541",
+        "conflict": "#f5404f",
+        "created": "#f3f5ab",
+        "deleted": "#f5404f",
+        "drop_target": "#f5404f"
+      }
+    },
+    {
+      "name": "Quantum Void Light",
+      "appearance": "light",
+      "style": {
+        "editor.background": "#fff"
+      }
+    }
+  ]
+}
